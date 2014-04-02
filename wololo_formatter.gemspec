@@ -6,7 +6,7 @@ require 'wololo_formatter/version'
 Gem::Specification.new do |spec|
   spec.name          = "wololo_formatter"
   spec.version       = WololoFormatter::VERSION
-  spec.authors       = ["georgi"]
+  spec.authors       = ["gmitrev"]
   spec.email         = ["gvmitrev@gmail.com"]
   spec.description   = %q{A better default formatter for the default ruby Logger}
   spec.summary       = %q{Adds colors to the messages and includes the process pid at the end}
